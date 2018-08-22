@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 2s linear;
+  animation: App-logo-spin infinite 4s linear;
   height: 100px;
 }
 
@@ -27,10 +27,8 @@
 #page-bg {
   background-image: url(http://getwallpapers.com/wallpaper/full/4/1/e/1042115-best-fairy-tail-logo-wallpaper-1920x1080-for-phones.jpg);
   height: 1000px;
-}
-
-#page-bg {
   color: rgba(173, 175, 39, 0.623);
+  font-weight: bold;
 }
 
 #short-bio {
