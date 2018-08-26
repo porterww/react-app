@@ -1,5 +1,5 @@
-import React, { Component } from "react"
-import NavSite from "./NavSite.js"
+import React, { Component } from 'react'
+import NavSite from './NavSite'
 
 class HomePage extends Component {
   render() {
@@ -16,6 +16,7 @@ class HomePage extends Component {
         </header>
         <main id="page-bg">
           <section id="short-bio">
+            <br/>
             <p className="App-intro">
               I am a big nerd when it comes to tech or games. I am also very
               passionate about what I do and how I do it. I especialy enjoy
@@ -24,6 +25,7 @@ class HomePage extends Component {
           </section>
           <section id="bullet-list">
             <h2>Reasons I'm attending HelioTraining</h2>
+            <ul id="bullet">
             <li>To take my next steps in a successful career path.</li>
             <li>
               To be able to move out and take my first steps in life outside of
@@ -33,12 +35,15 @@ class HomePage extends Component {
               To afford my own house one day and support my family as well as my
               hobbies.
             </li>
+            </ul>
           </section>
           <section>
             <h3>My Internests</h3>
-            <li id="ol">Books/Manga/Comics.</li>
-            <li id="ol">American Style Cartoons/Anime.</li>
-            <li id="ol">Playing Video Games with friends and family.</li>
+            <ol id="number">
+              <li>Books/Manga/Comics.</li>
+              <li>American Style Cartoons/Anime.</li>
+              <li>Playing Video Games with friends and family.</li>
+            </ol>
           </section>
           <br />
           <br />

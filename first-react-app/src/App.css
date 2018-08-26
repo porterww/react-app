@@ -22,12 +22,34 @@
   margin: 0px;
   padding-top: 18px;
   padding-bottom: 18px;
+  font-size: large;
+}
+
+nav {
+  font-size: 25px;
+  font-weight: bold;
+  color: grey;
+}
+
+#home {
+  text-decoration: none;
+  color: grey;
+}
+
+#work-history {
+  text-decoration: none;
+  color: grey;
+}
+
+#projects-page {
+  text-decoration: none;
+  color: grey;
 }
 
 #page-bg {
   background-image: url(http://getwallpapers.com/wallpaper/full/4/1/e/1042115-best-fairy-tail-logo-wallpaper-1920x1080-for-phones.jpg);
   height: 1000px;
-  color: rgba(173, 175, 39, 0.623);
+  color: rgba(173, 175, 39, 0.835);
   font-weight: bold;
 }
 
@@ -46,18 +68,18 @@ h3 {
   font-weight: 900;
 }
 
-#ol {
+#number {
   list-style-type: decimal;
+  list-style-position: inside;
+}
+
+#bullet {
+  list-style-position: inside;
+  text-align: center;
 }
 
 footer {
   font-style: italic;
-}
-
-.App-intro {
-  font-size: large;
-  /* background-image: url(https://pre00.deviantart.net/79b0/th/pre/f/2014/104/5/e/fairy_tail_wallpaper__1920x1080__hd_by_say0chi-d7e7mh6.png);
-  height: 1000px; */
 }
 
 @keyframes App-logo-spin {

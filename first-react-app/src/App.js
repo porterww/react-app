@@ -1,7 +1,7 @@
-import React, { Component } from "react"
-import "./App.css"
-import HomePage from "./HomePage.js"
-import WorkHistoryPage from "./WorkHistoryPage"
+import React, { Component } from 'react'
+import './App.css'
+import HomePage from './HomePage'
+import WorkHistoryPage from './WorkHistoryPage'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 
 class App extends Component {
