@@ -12,6 +12,7 @@ class WorkHistoryItems extends Component {
                     <li>{this.props.resp2}</li>
                     <li>{this.props.resp3}</li>
                 </ul>
+                <h3>{this.props.previousjobs}</h3>
                 <ul id="bullet">
                     <li>{this.props.job1}</li>
                     <li>{this.props.job2}</li>

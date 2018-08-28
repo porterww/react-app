@@ -38,7 +38,7 @@ class HomePage extends Component {
             </ul>
           </section>
           <section>
-            <h3>My Internests</h3>
+            <h3 id="header3">My Internests</h3>
             <ol id="number">
               <li>Books/Manga/Comics.</li>
               <li>American Style Cartoons/Anime.</li>
