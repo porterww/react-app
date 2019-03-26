@@ -16,8 +16,8 @@ class WorkHistoryPage extends Component {
           <NavSite />
         </header>
         <section id="page-bg" className="workpagetest">
-          <WorkHistoryItems company="Verscend Technologies Inc." job="Record Retrieval Agent " date="from 2016-Present" 
-          resp1="Making calls to obtain medical records." 
+          <WorkHistoryItems company="Cotiviti" job="Level 3 Operations Support Agent " date="from 2016-Present" 
+          resp1="Support in record retrieval operations."
           resp2="Verifying needed HIPAA before releasing patient info to a facility." 
           resp3="Calling back facility on a different day to obtain a date and delivery method for records to be returned."
           previousjobs="Previous Jobs"

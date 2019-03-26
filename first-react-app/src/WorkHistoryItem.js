@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import NavSite from './NavSite'
 
 class WorkHistoryItems extends Component {
     render() {

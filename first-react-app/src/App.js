@@ -3,9 +3,7 @@ import './App.css'
 import HomePage from './HomePage'
 import WorkHistoryPage from './WorkHistoryPage'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
-import WorkHistoryItems from './WorkHistoryItem';
-import ProjectItem from './ProjectItem';
-import ProjectsPage from './ProjectsPage';
+import ProjectsPage from './ProjectsPage'
 
 class App extends Component {
   render() {
